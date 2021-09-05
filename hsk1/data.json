@@ -1,0 +1,75 @@
+[
+    {
+        "hanzi": "的",
+        "pinyin": "de",
+        "meanings":[
+            {
+                "translation": "possessive, adjectival suffix",
+                "examples": 
+                [
+                    {
+                        "hazi_setence": "的*的*的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My mother."
+                    },{
+                        "hazi_setence": "的的的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My mother."
+                    }
+                ]
+            },{
+                "translation": "test2",
+                "examples": 
+                [
+                    {
+                        "hazi_setence": "的的的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My *mother*."
+                    }
+                ]
+            }
+        ]
+    },{
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meanings":[
+            {
+                "translation": "I",
+                "examples":
+                [
+                    {
+                        "hazi_setence": "的的的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My mother."
+                    }
+                ]
+            },{
+                "translation": "I",
+                "examples":
+                [
+                    {
+                        "hazi_setence": "的的的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My mother."
+                    }
+                ]
+            }
+        ]
+    },{
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meanings":[
+            {
+                "translation": "You",
+                "examples": 
+                [
+                    {
+                        "hazi_setence": "的的的的",
+                        "pinyin_sentence":"wo de mama",
+                        "translation_sentence":"My mother."
+                    }
+                ]
+            }
+        ]
+    }   
+]
